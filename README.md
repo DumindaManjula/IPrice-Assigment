@@ -22,7 +22,7 @@ I have made some assumption since the requirement was not much in detail.Find th
 
 Note: To perform Junit testing follow below steps.
 
-1. In Intelij Go to File > Modules and select test folder and mark as test and hit apply button.
+1. In Intelij Go to File > Modules and select test folder and mark as test and hit ok button.
 
 ![](images/setup_junit.png)
 
