@@ -23,5 +23,7 @@ I have made some assumption since the requirement was not much in detail.
 Note: To perform Junit testing follow below steps.
 
 1. In Intelij Go to File > Modules and select test folder and mark as test and hit apply button.
+
 ![](images/setup_junit.png)
+
 2. In IpriceApplicationTest class you can apply defined test cases for each functionalities.
