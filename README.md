@@ -15,9 +15,9 @@ I have created this application using intellij idea. Follow below steps to set u
 4. Once you entered that text value press enter, next it will appear above three option to choose to perform for each activities. Type A,B or C option among them and hit enter.
 5. Then it will appear the output for each performed task. If you enter C option to generate excel file, it will generate the CSV file on root folder as output.csv and will be printed on CLI as 'CSV created!' .
 
-I have made some assumption since the requirement was not much in detail.
+I have made some assumption since the requirement was not much in detail.Find those below
 
-1. If user enters a string with number or symbols it will perform the task without doing any validation and if letters contains of that string , those letters will perform respective actions.
+1. If user enters a string with number or symbols it will perform the task without doing any validation and if letters contains in that string , those letters will perform respective actions.
 
 
 Note: To perform Junit testing follow below steps.
