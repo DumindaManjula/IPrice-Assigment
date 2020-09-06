@@ -8,6 +8,7 @@ creates a CSV file from the string by making each character a column in the CSV 
 I have created this application using intellij idea. Follow below steps to set up the application on your machine.
 
 1. Clone the repository using below link 
+	
 	https://github.com/DumindaManjula/IPrice-Assigment.git
 2. Open the cloned appplication in intellij idea.
 3. Run the IpriceApplication java class as the main class by right clicking on it.In the console(CLI) text will appear requesting string value for perform transaction.
