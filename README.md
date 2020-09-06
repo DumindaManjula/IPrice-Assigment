@@ -11,7 +11,7 @@ I have created this application using intellij idea. Follow below steps to set u
 	
 	https://github.com/DumindaManjula/IPrice-Assigment.git
 2. Open the cloned appplication in intellij idea.
-3. Run the IpriceApplication java class as the main class by right clicking on it.In the console(CLI) text will appear requesting string value for perform any activity.
+3. Run the IpriceApplication java class as the main class by right clicking on it.In the console(CLI) text will appear requesting string value to perform any activity.
 4. Once you entered that text value press enter and next it will appear above three option to choose to perform for each activities. Type A,B or C option among them and hit enter.
 5. Then it will appear the output for each performed task. If you enter C option to generate excel file, it will generate the CSV file on root folder as output.csv and will be printed on CLI as 'CSV created!' .
 
