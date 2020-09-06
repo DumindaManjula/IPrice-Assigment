@@ -5,6 +5,7 @@ import com.iprice.service.DataGenerate;
 import com.iprice.service.impl.DataExportImpl;
 import com.iprice.service.impl.DataGenerateImpl;
 import org.junit.After;
+import org.junit.Before;
 import org.junit.jupiter.api.Test;
 
 
