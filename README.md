@@ -1,9 +1,9 @@
 # IPrice-Assigment
 This application consists with three main functionalities 
 
-converts the string to uppercase and outputs it to stdout.
-converts the string to alternate upper and lower case and outputs it to stdout.
-creates a CSV file from the string by making each character a column in the CSV and then output "CSV created!" to stdout.
+1. converts the string to uppercase and outputs it to stdout.
+2. converts the string to alternate upper and lower case and outputs it to stdout.
+3. creates a CSV file from the string by making each character a column in the CSV and then output "CSV created!" to stdout.
 
 I have created this application using intellij idea. Follow below steps to set up the application on your machine.
 
